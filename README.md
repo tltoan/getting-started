@@ -6,4 +6,4 @@
 ![JSX](images/jsx.png)
 ![React-Comp](images/react-comp.png)
 ![Comps-Interactions](images/component-interaction.png)
-![Typescript](images/typescript.png)
+![Typescript](images/typescript2.png)
